@@ -1,0 +1,2 @@
+json_key_file("app/api-7857354141055756493-937852-0a636213e73f.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("nmssalman.global.fastlanejenkins") # e.g. com.krausefx.app
